@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Stan Newton",
+    "role": "CEO, Engineering",
+    "image": "/images/wp-content_uploads_2022_02_people-newton.jpg",
+    "bio": "Stan provides engineering and economic analysis support to the team, as well as supporting Egg Geo's project delivery. His engineering role includes mechanical and electrical engineering expertise from the development of system flow diagrams to above-ground design documents, to construction phase administration."
+  },
+  {
+    "name": "Jay Egg",
+    "role": "President",
+    "image": "/images/wp-content_uploads_2022_02_person-jayegg.jpg",
+    "bio": "Jay's 35 years in the geothermal industry have brought him the labels of Visionary and Game-changer in the adoption and deployment of thermal energy exchange. As a global geothermal expert, Jay focuses on feasibility and design for thermal energy networks."
+  },
+  {
+    "name": "Justin Mariniak, PE",
+    "role": "Geothermal",
+    "image": "/images/justin-mariniak.jpg",
+    "bio": "As a PE and project manager, Justin's role on projects ranges from providing geothermal payback analysis to full geothermal system design. His background as a mechanical engineer began in conventional HVAC design, including DX and Chilled Water, before focusing full time on thermal energy applications."
+  },
+  {
+    "name": "Carter Johnson, MS",
+    "role": "Geothermal Systems & Modelling",
+    "image": "/images/wp-content_uploads_2023_06_Carter.png",
+    "bio": "Casey is a mechanical engineer who supports client projects through geothermal engineering and Revit design. His expertise is driven by degrees in mechanical engineering and chemistry."
+  },
+  {
+    "name": "Naga Kasi",
+    "role": "HVAC Systems Engineering",
+    "image": "/images/wp-content_uploads_2025_07_Naga-Kasi-e1752260081230.png",
+    "bio": "Naga brings deep expertise in HVAC systems engineering to Egg Geo's thermal energy projects, supporting design and delivery of innovative geothermal solutions."
+  },
+  {
+    "name": "Mimi Egg",
+    "role": "Social Media, Content Writer & Marketing",
+    "image": "/images/wp-content_uploads_2025_01_Mimi-Egg.jpg",
+    "bio": "Mimi drives Egg Geo's brand presence through compelling content, social media engagement, and strategic marketing that communicates the value of thermal energy networks."
+  },
+  {
+    "name": "Sharon Osborne",
+    "role": "VP Finance & Administration",
+    "image": "/images/wp-content_uploads_2022_02_osbourne.jpg",
+    "bio": "Sharon leads the finance and administration functions for both Egg Geo and its parent company Technology Matrix, LLC, backed by career expertise covering almost four decades in procurement, finance and operations."
+  },
+  {
+    "name": "Jordan Seaton, MBA",
+    "role": "Financial Planning & Cash Flow Manager",
+    "image": "/images/wp-content_uploads_2025_12_seatonv1.jpg",
+    "bio": "Jordan serves in dual roles at Egg Geo and its parent company, Technology Matrix, LLC. After achieving his MBA, he was recognized with promotion to his current management positions within the organization."
+  },
+  {
+    "name": "Paul Petry",
+    "role": "Drilling",
+    "image": "/images/wp-content_uploads_2022_02_people-petry.jpg",
+    "bio": "Paul's role in directing Operations for drilling is based on 37 years of operational experience from oil & gas production, to aquifer storage and recovery, as well as injection wells, both domestically and internationally."
+  },
+  {
+    "name": "John Rhyner, PG",
+    "role": "Hydrogeology",
+    "image": "/images/wp-content_uploads_2024_02_john-rhyner-300.jpg",
+    "bio": "John brings specialized expertise in hydrogeology to Egg Geo's thermal energy network projects, providing critical subsurface analysis and aquifer assessment for geothermal systems."
+  },
+  {
+    "name": "Greg Cuniff, PE",
+    "role": "Hydronics",
+    "image": "/images/wp-content_uploads_2023_05_Greg-Cuniff-3.jpg",
+    "bio": "Greg's experience ranges from consulting engineer, to temperature controls contractor to manufacturer's representative and design build contractor. He is the recipient of a Lifetime Achievement Award from the Hydronics Industry Alliance."
+  }
+]

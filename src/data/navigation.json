@@ -1,0 +1,213 @@
+{
+  "structure": [
+    {
+      "label": "Technical Services",
+      "path": "/technical-services",
+      "children": [
+        {
+          "label": "Feasibility Studies",
+          "path": "/technical-services/feasibility-studies"
+        },
+        {
+          "label": "Master Planning",
+          "path": "/technical-services/master-planning"
+        },
+        {
+          "label": "Design",
+          "path": "/technical-services/design"
+        },
+        {
+          "label": "Owner Representation",
+          "path": "/technical-services/owner-representation"
+        }
+      ]
+    },
+    {
+      "label": "Education Services",
+      "path": "/education-services",
+      "children": [
+        {
+          "label": "Publications",
+          "path": "/education-services/publications"
+        },
+        {
+          "label": "Seminars",
+          "path": "/education-services/seminars"
+        },
+        {
+          "label": "Kids Corner",
+          "path": "/education-services/kids-corner"
+        },
+        {
+          "label": "Activity Books",
+          "path": "/education-services/activity-books"
+        }
+      ]
+    },
+    {
+      "label": "News",
+      "path": "/news",
+      "children": [
+        {
+          "label": "Industry",
+          "path": "/news/industry"
+        },
+        {
+          "label": "Mission Statement",
+          "path": "/news/mission-statement"
+        },
+        {
+          "label": "Egg Geo",
+          "path": "/news/egg-geo"
+        }
+      ]
+    },
+    {
+      "label": "Defining The Future",
+      "path": "/defining-the-future",
+      "children": [
+        {
+          "label": "Emerging Technology Advocacy",
+          "path": "/defining-the-future/emerging-technology-advocacy"
+        },
+        {
+          "label": "Code Development",
+          "path": "/defining-the-future/code-development"
+        },
+        {
+          "label": "Resources",
+          "path": "/defining-the-future/resources"
+        }
+      ]
+    },
+    {
+      "label": "Company",
+      "path": "/company",
+      "children": [
+        {
+          "label": "About Egg Geo",
+          "path": "/company/about-egg-geo"
+        },
+        {
+          "label": "Our Team",
+          "path": "/company/our-team"
+        },
+        {
+          "label": "Projects",
+          "path": "/company/projects"
+        },
+        {
+          "label": "Careers",
+          "path": "/company/careers"
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "rawNav": [
+    {
+      "text": "Skip to content",
+      "href": "https://egggeo.com/#content"
+    },
+    {
+      "text": "TECHNICAL SERVICES",
+      "href": "https://egggeo.com/#"
+    },
+    {
+      "text": "Feasibility Studies",
+      "href": "https://egggeo.com/technical-services/feasibility-studies/"
+    },
+    {
+      "text": "Master Planning",
+      "href": "https://egggeo.com/technical-services/master-planning/"
+    },
+    {
+      "text": "Design",
+      "href": "https://egggeo.com/technical-services/geothermal-design/"
+    },
+    {
+      "text": "Owner Representation",
+      "href": "https://egggeo.com/technical-services/owner-representation/"
+    },
+    {
+      "text": "EDUCATION SERVICES",
+      "href": "https://egggeo.com/#"
+    },
+    {
+      "text": "Publications",
+      "href": "https://egggeo.com/publications/"
+    },
+    {
+      "text": "Seminars",
+      "href": "https://egggeo.com/education-services/seminars/"
+    },
+    {
+      "text": "Kids Corner",
+      "href": "https://egggeo.com/kids-corner/"
+    },
+    {
+      "text": "Activity Books",
+      "href": "https://egggeo.com/activity-books/"
+    },
+    {
+      "text": "NEWS",
+      "href": "https://egggeo.com/#"
+    },
+    {
+      "text": "Industry",
+      "href": "https://egggeo.com/industry/"
+    },
+    {
+      "text": "Mission Statement",
+      "href": "https://egggeo.com/mission-statement/"
+    },
+    {
+      "text": "Egg Geo",
+      "href": "https://egggeo.com/?page_id=547"
+    },
+    {
+      "text": "DEFINING THE FUTURE",
+      "href": "https://egggeo.com/#"
+    },
+    {
+      "text": "Emerging Technology Advocacy",
+      "href": "https://egggeo.com/defining-the-future/emerging-technology-advocacy/"
+    },
+    {
+      "text": "Code Development",
+      "href": "https://egggeo.com/defining-the-future/code-development/"
+    },
+    {
+      "text": "Resources",
+      "href": "https://egggeo.com/defining-the-future/resources/"
+    },
+    {
+      "text": "COMPANY",
+      "href": "https://egggeo.com/#"
+    },
+    {
+      "text": "About Egg Geo",
+      "href": "https://egggeo.com/about-egg-geo/"
+    },
+    {
+      "text": "Our Team",
+      "href": "https://egggeo.com/about-egg-geo/our-team/"
+    },
+    {
+      "text": "Projects",
+      "href": "https://egggeo.com/projects/"
+    },
+    {
+      "text": "Careers",
+      "href": "https://egggeo.com/about-egg-geo/careers/"
+    },
+    {
+      "text": "CONTACT",
+      "href": "https://egggeo.com/contact/"
+    }
+  ],
+  "homePage": "home"
+}

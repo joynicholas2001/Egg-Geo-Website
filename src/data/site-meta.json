@@ -1,0 +1,306 @@
+{
+  "siteName": "Egg Geo",
+  "tagline": "Defining the future of thermal energy networks",
+  "home": {
+    "title": "Home - Egg Geo",
+    "heroSlides": [
+      {
+        "src": "/images/wp-content_uploads_2023_06_GeothermalTechi-Illustration-Animate-Wel-Labelsl.gif",
+        "alt": ""
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_Cooling-Tower-to-TEN-Poster-2023.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_Slide1.png",
+        "alt": "Slide1"
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_TENs-Grahpic.png",
+        "alt": "TENs Grahpic"
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZWNjMzFmIiBvcGFjaXR5PSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+",
+        "alt": "previous arrow"
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZTc5ZDE5IiBvcGFjaXR5PSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+",
+        "alt": "previous arrow"
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNlY2MzMWYiIG9wYWNpdHk9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+        "alt": "next arrow"
+      },
+      {
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNlNzlkMTkiIG9wYWNpdHk9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=",
+        "alt": "next arrow"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "Main Navigation"
+      },
+      {
+        "level": 3,
+        "text": "Defining The Future Of Thermal Energy Networks"
+      },
+      {
+        "level": 3,
+        "text": "technical services"
+      },
+      {
+        "level": 3,
+        "text": "education services"
+      },
+      {
+        "level": 3,
+        "text": "defining the future"
+      },
+      {
+        "level": 6,
+        "text": "2860 Scherer Dr. N"
+      },
+      {
+        "level": 6,
+        "text": "Suite 640"
+      },
+      {
+        "level": 6,
+        "text": "St Petersburg, Fl. 33716"
+      },
+      {
+        "level": 2,
+        "text": "egggeo pdfs download pop up"
+      }
+    ],
+    "paragraphs": [
+      "The future of thermal energy networks and geothermal energy is being written today. Egg Geo joins global industry leaders at the front lines where the heating and cooling of buildings comprises 40% of the world’s energy budget.",
+      "Egg Geo provides technical and education services in thermal energy and geothermal exchange consulting for clients ranging from developers and ESG funds to governments and institutions for such projects as:",
+      "Our mission is to optimize our clients’ ability to heat and cool their buildings reliably and effectively using carbon neutral thermal energy.",
+      "Feasibility Studies",
+      "Master Planning",
+      "Owner Representation",
+      "Publications",
+      "Emerging Technology Advocacy",
+      "Code Development",
+      "(727) 214-5863\ninfo@EggGeo.com",
+      "©2025 Egg Geo, LLC",
+      "Young kids scrapbook",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_2\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_3\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_4\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Geothermal House Popup",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_5\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Your email\n \n\n\n\t<div class=\"grecaptcha-noscript\">\n\t\t<iframe src=\"https://www.google.com/recaptcha/api/fallback?k=6LemiW0gAAAAAAcRRdOlxlN9_tXyA6UFMib3WiBM\" frameborder=\"0\" scrolling=\"no\" width=\"310\" height=\"430\">\n\t\t</iframe>\n\t\t<textarea name=\"g-recaptcha-response\" rows=\"3\" cols=\"40\" placeholder=\"reCaptcha Response Here\">\n\t\t</textarea>\n\t</div>",
+      "Δ\ndocument.getElementById( \"ak_js_6\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds"
+    ],
+    "lists": [
+      [
+        "TECHNICAL SERVICES",
+        "EDUCATION SERVICES",
+        "NEWS",
+        "DEFINING THE FUTURE",
+        "COMPANY",
+        "CONTACT"
+      ],
+      [
+        "Feasibility Studies",
+        "Master Planning",
+        "Design",
+        "Owner Representation"
+      ],
+      [
+        "Publications",
+        "Seminars",
+        "Kids Corner",
+        "Activity Books"
+      ],
+      [
+        "Industry",
+        "Mission Statement",
+        "Egg Geo"
+      ],
+      [
+        "Emerging Technology Advocacy",
+        "Code Development",
+        "Resources"
+      ],
+      [
+        "About Egg Geo",
+        "Our Team",
+        "Projects",
+        "Careers"
+      ],
+      [
+        "Thermal energy networks",
+        "Datacenters",
+        "Healthcare and educational campuses",
+        "Multifamily communities",
+        "Cities and municipalities"
+      ]
+    ],
+    "images": [
+      {
+        "src": "/images/wp-content_themes_egggeo_img_egg-geo-white.svg",
+        "alt": "Egg Geo"
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_GeothermalTechi-Illustration-Animate-Wel-Labelsl.gif",
+        "alt": ""
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_Cooling-Tower-to-TEN-Poster-2023.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_Slide1.png",
+        "alt": "Slide1"
+      },
+      {
+        "src": "/images/wp-content_uploads_2023_06_TENs-Grahpic.png",
+        "alt": "TENs Grahpic"
+      },
+      {
+        "src": "/images/wp-content_themes_egggeo_img_pipes.png",
+        "alt": "geothermal pipes"
+      },
+      {
+        "src": "/images/wp-content_themes_egggeo_img_pipes2.png",
+        "alt": "geothermal pipes"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "technical services",
+        "content": "technical services\n\nExplore:\n\nFeasibility Studies\n\nMaster Planning\n\nDesign\n\nOwner Representation"
+      },
+      {
+        "heading": "education services",
+        "content": "education services\n\nLearn:\n\nPublications\n\nSeminars"
+      },
+      {
+        "heading": "defining the future",
+        "content": "defining the future\n\nEnvision:\n\nEmerging Technology Advocacy\n\nCode Development\n\nResources"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Egg Geo",
+    "content": [
+      "Egg Geo is a global leader in geothermal exchange consulting for geothermal energy districts, datacenters, institutions, and multifamily complexes for clients ranging from developers and ESG funds to governments and other entities. Our mission is to ensure our clients optimize their capabilities to generate effective heating and cooling in buildings for and transitioning to stable and resilient energy.",
+      "Clients benefit from our ability to plan and technically oversee complex energy delivery projects through our multidisciplinary approach. Our approach builds on the solid foundation of more than three decades of geothermal industry experience, providing effective and robust solutions for our clients’ objectives.",
+      "(727) 214-5863\ninfo@EggGeo.com",
+      "©2025 Egg Geo, LLC",
+      "Young kids scrapbook",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_2\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_3\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_4\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Geothermal House Popup",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_5\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Your email\n \n\n\n\t<div class=\"grecaptcha-noscript\">\n\t\t<iframe src=\"https://www.google.com/recaptcha/api/fallback?k=6LemiW0gAAAAAAcRRdOlxlN9_tXyA6UFMib3WiBM\" frameborder=\"0\" scrolling=\"no\" width=\"310\" height=\"430\">\n\t\t</iframe>\n\t\t<textarea name=\"g-recaptcha-response\" rows=\"3\" cols=\"40\" placeholder=\"reCaptcha Response Here\">\n\t\t</textarea>\n\t</div>",
+      "Δ\ndocument.getElementById( \"ak_js_6\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds"
+    ],
+    "images": [
+      {
+        "src": "/images/wp-content_themes_egggeo_img_egg-geo-white.svg",
+        "alt": "Egg Geo"
+      },
+      {
+        "src": "/images/wp-content_uploads_2024_02_Egg-Geo-Company-Resume-20240102-coverpage-scaled.jpg",
+        "alt": "Company Resume"
+      },
+      {
+        "src": "/images/wp-content_uploads_2024_02_Egg-Geo-Company-Resume-20240102-coverpage1-scaled.jpg",
+        "alt": ""
+      }
+    ]
+  },
+  "careers": {
+    "title": "Join us at the Thermal Network Edge",
+    "content": [
+      "As a leader in thermal energy networks and geothermal energy, we look to grow our team with partners and team mates who think big, push boundaries, and imagine a thermal energy future.",
+      "If you think you’re a fit, email us at: info@egggeo.com to tell us why. Please include your background and bio data.",
+      "(727) 214-5863\ninfo@EggGeo.com",
+      "©2025 Egg Geo, LLC",
+      "Young kids scrapbook",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_1\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_2\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_3\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_4\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Geothermal House Popup",
+      "Your first name",
+      "Your last name",
+      "Δ\ndocument.getElementById( \"ak_js_5\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds",
+      "Demo Description",
+      "Your first name",
+      "Your last name",
+      "Your email\n \n\n\n\t<div class=\"grecaptcha-noscript\">\n\t\t<iframe src=\"https://www.google.com/recaptcha/api/fallback?k=6LemiW0gAAAAAAcRRdOlxlN9_tXyA6UFMib3WiBM\" frameborder=\"0\" scrolling=\"no\" width=\"310\" height=\"430\">\n\t\t</iframe>\n\t\t<textarea name=\"g-recaptcha-response\" rows=\"3\" cols=\"40\" placeholder=\"reCaptcha Response Here\">\n\t\t</textarea>\n\t</div>",
+      "Δ\ndocument.getElementById( \"ak_js_6\" ).setAttribute( \"value\", ( new Date() ).getTime() );",
+      "This will close in  0 seconds"
+    ]
+  }
+}
